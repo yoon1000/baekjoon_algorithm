@@ -2,11 +2,13 @@
 
 백준 추천 문제집 문제풀이 repository
 
-## Data Structure
+## [Data Structure]
 ||문제번호|문제이름|파일명|
 |:---:|:---:|:---:|:---:|
 |1|[1158]|요세푸스|[Josephus.Java]|
 
+
+[Data Structure]:https://www.acmicpc.net/workbook/view/6779
 
 
 [1158]: https://www.acmicpc.net/problem/1158
